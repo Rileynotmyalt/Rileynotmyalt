@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rileynotmyalt
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on RoboHounds
+- 📫 How to reach me rcarter41@claytonschools.net
