@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rileynotmyalt
 - 👀 I’m interested in Machine Learning, C++, and Unity, as well as OpenGL
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, WPILib, Arduino/c/c++
 - 💞️ I’m looking to collaborate on RoboHounds
 - 📫 How to reach me rcarter41@claytonschools.net
 
