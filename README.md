@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/f3547318-8055-48cd-96c0-a914c8ea8cd7.svg)](https://wakatime.com/@f3547318-8055-48cd-96c0-a914c8ea8cd7)
 - 👋 Hi, I’m Riley Carter
 - 👀 I’m interested in Machine Learning, C++, and Unity, as well as OpenGL
 - 🌱 I’m currently learning Java, WPILib, Arduino/c/c++
