@@ -6,7 +6,7 @@
 - 📫 How to reach me rileycarter79@gmail.com
 
 # Languages
-<img height="40" width= "40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"><img height="40" width= "40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png">
+<img height="40" width= "40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"><img height="40" width= "40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png"><img height="40" width= "40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/javascript/javascript.png">
 
 ![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rileynotmyalt&show_icons=true&theme=gotham)
 
